@@ -2,7 +2,7 @@
 
 **An analytical project exploring ride-hailing operations, financial performance, and customer behavior for Tranzit Rides — a Lagos-based mobility platform.**
 
-[Read Full Case Study on Medium →](https://medium.com/)
+[Read Full Case Study on Medium →](https://medium.com/@Khairattheanalyst/tranzit-rides-operations-and-revenue-performance-report-2025-2026-9a265cd54f3f)
 
 ---
 
